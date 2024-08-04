@@ -11,3 +11,6 @@ Check the app [here](https://nextjs-dashboard-git-master-mariphys-projects.verce
 - TypeScript
 
 The [course curriculum](https://nextjs.org/learn) is available on the Next.js Website.
+
+To log in use email: user@nextmail.com
+Password: 123456
